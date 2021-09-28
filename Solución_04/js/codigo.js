@@ -5,7 +5,7 @@ function cambiar1() {
     .setAttribute("src", "img/Machu PIcchu.jpg");
 }
 function cambiar2() {
-  document.getElementById("h1cab").innerHTML = "La Isla Tequile";
+  document.getElementById("h1cab").innerHTML = "La Isla Taquile";
   document
     .getElementById("imgCambiante")
     .setAttribute("src", "img/La Isla Taquile.jpg");
