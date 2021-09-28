@@ -1,0 +1,22 @@
+h1 {
+  color: darkblue;
+  padding: 10px;
+}
+.casilla {
+  margin: 10px 5px;
+}
+
+.container {
+  display: flex;
+  margin: 50px;
+}
+.form {
+  background-color: aqua;
+  border-radius: 10px;
+}
+
+#btn {
+  margin: 20px;
+  padding: 5px 50px;
+  border-radius: 2px;
+}

@@ -1,0 +1,39 @@
+.principal {
+  margin: 0 10% 0 10%;
+  border: darkblue solid 1px;
+}
+#h1cab {
+  font-family: "Arial Narrow";
+  font-size: 16pt;
+  text-align: center;
+  display: block;
+}
+
+.imgPrincipal {
+  display: flex;
+  justify-content: space-around;
+}
+
+#imgCambiante {
+  width: 50%;
+  height: 350px;
+  padding: 10px;
+  border: 2px black solid;
+  margin-bottom: 10px;
+}
+
+.container_imgs {
+  display: flex;
+  justify-content: space-around;
+  padding: 1%;
+}
+
+.imgSecundaria {
+  width: 32%;
+  height: 180px;
+}
+
+.imgSecundaria:hover {
+  box-shadow: rgba(0, 0, 0, 0.5);
+  border: darkblue 2px solid;
+}
